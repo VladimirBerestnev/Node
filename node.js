@@ -15,7 +15,6 @@ const server = http.createServer((req, res) => {
         res.write('<h1>Страница не найдена</h1>');
         res.end('<a href="/">Вернуться на главную страницу</a>');
     }
-
 });
 
 const port = '8181';
