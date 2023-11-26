@@ -1,0 +1,10 @@
+{
+  "name": "berestnew-random-date",
+  "version": "1.0.2",
+  "description": "random date",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Vladimir Berestnev",
+  "license": "ISC"
+}
