@@ -1,3 +1,4 @@
+// Со счетчиком разобрался. Не нужен тут никакой onload))
 const http = require('http');
 
 let counterMain = 0;
